@@ -1,0 +1,137 @@
+/* Utility Classes */
+.box-3 {
+  float: none;
+  width: 100%;
+}
+
+/* Header */
+#main-header {
+  height: 100%;
+}
+
+#home-cover {
+  height: 100%;
+}
+
+/* Nav */
+#navbar {
+  height: 100%;
+  text-align: center;
+}
+
+#navbar h1 {
+  float: none;
+}
+
+#navbar ul {
+  float: none;
+  padding-top: 10px;
+}
+
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding:10px;
+}
+
+#navbar ul li:nth-child(1) {
+  padding-right: 0px;
+}
+
+#navbar ul li:nth-child(2) {
+  padding-right: 0px;
+}
+
+/* Showcase */
+#showcase {
+  text-align: center;
+  padding: 10px;
+}
+
+#showcase .showcase-book{
+  float: none;
+  padding: 20px;
+} 
+
+#showcase .showcase-book img {
+  height: 450px;
+}
+
+#showcase .showcase-content {
+  padding: 0px;
+}
+
+#showcase .showcase-content a{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+/* Author */
+#author {
+  height: 100%;
+  padding-top: 0px;
+  text-align: center;
+}
+
+#author .author-img {
+  float: none;
+  padding: 50px 50px 10px 50px;
+}
+
+#author img {
+  border-radius: 50%;
+  height: 200px;
+}
+
+#author .author-content {
+  padding: 20px 20px 50px 20px;
+}
+
+/* Book */
+#book {
+  padding: 20px;
+  height: 100%;
+  text-align: center;
+}
+
+#book h2 {
+  padding: 10px;
+}
+
+
+#book p {
+  
+  padding: 10px 20px 40px 20px;
+}
+
+/* Buy */
+#buy {
+  text-align: center;
+  padding: 20px;
+}
+
+#buy .buy-img {
+  float: none;
+  width: 100%;
+  padding: 30px;
+}
+
+#buy .buy-img img {
+  height: 450px;
+}
+
+#buy h2 {
+  padding-top: 10px;
+}
+
+#buy .buy-stores {
+  text-align: center;
+  padding-top: 40px;
+}
+
+#buy .buy-stores ul li {
+  display: block;
+  padding: 10px;
+}
